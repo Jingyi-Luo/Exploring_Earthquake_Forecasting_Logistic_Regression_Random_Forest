@@ -1,1 +1,1 @@
-# Exploring_Earthquake_Forecasting_Using_Machine_Learning
+# Exploring Earthquake Forecasting Using Logistic Regression and Random Forest
